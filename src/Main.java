@@ -8,7 +8,6 @@ public class Main {
         double d = 3.456777777789;
         boolean t = true;
         char c = 65505;
-
         double a = 27.12 ;
         long j = 987678965549L;
         double e = 2.786;
