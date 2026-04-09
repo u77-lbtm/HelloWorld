@@ -90,21 +90,25 @@ public class Main {
         System.out.println(s2);
         System.out.println(y);
         System.out.println("На каждого ученика рассчитано " + paperForStudent + " листов бумаги");
-        System.out.println();
 
+        System.out.println();
         System.out.println("За "+"20 минут" + " машина произвела " +b1 + " штук бутылок");
         System.out.println("За " +"сутки" + " машина произвела " +bottlesInDay + " штук бутылок");
         System.out.println("За " +"3 дня" + " машина произвела " +bottlesIn3day + " штук бутылок");
         System.out.println("За " +"месяц" + " машина произвела " +bottlesInMonth + " штук бутылок");
+
         System.out.println();
         System.out.println("В школе, где "+count +" классов, нужно "+whitePaintForAllRoom+" банок белой краски и "+brownPaintForAllRoom+" банок коричневой краски");
+
         System.out.println();
         System.out.println(weigthInGram);
         System.out.println(weigthInKg);
+
         System.out.println();
         System.out.println(A);
         System.out.println(B);
         System.out.println(averageQuantity);
+
         System.out.println();
         System.out.println("Маша теперь получает "+newSalaryForMasha+" рублей. Годовой доход вырос на "+nextYear1+" рублей");
         System.out.println("Денис теперь получает "+newSalaryForDenis+" рублей. Годовой доход вырос на "+nextYear2+" рублей");
