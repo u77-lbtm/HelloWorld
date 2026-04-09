@@ -8,7 +8,6 @@ public class Main {
         double d = 3.456777777789;
         boolean t = true;
         char c = 65505;
-
         double a = 27.12 ;
         long j = 987678965549L;
         double e = 2.786;
@@ -16,30 +15,23 @@ public class Main {
         short s1 =-159;
         int s2 = 27897;
         byte y = 67;
-
         int c1 = 23;
         int c2 = 27;
         int c3 = 30;
         int AllPaper = 480;
         int paperForStudent = AllPaper/(c1+c2+c3);
-
         int bottlesIn2minutes = 16;
         int b1 = bottlesIn2minutes*10;
         int bottlesInDay = bottlesIn2minutes*3*24;
         int bottlesIn3day = bottlesInDay*3;
         int bottlesInMonth = bottlesIn3day*10;
-
         int brownPaint = 4;
         int whitePaint = 2;
         int count = 9;
         int brownPaintForAllRoom = brownPaint*count;
         int whitePaintForAllRoom = whitePaint*count;
 
-//        Бананы — 5 штук (1 банан — 80 грамм).
-//        Молоко — 200 мл (100 мл = 105 грамм).
-//        Мороженое-пломбир — 2 брикета по 100 грамм.
-//        Яйца сырые – 4 яйца (1 яйцо — 70 грамм).
-//        Смешать всё в блендере — и готово.
+
         int banan = 80;
         int milk = 105;
         int iceCream = 100;
@@ -47,7 +39,7 @@ public class Main {
         int weigthInGram= banan*2+milk*2+iceCream*2+agg*4;
         int weigthInKg =weigthInGram/1000;
 
-        //сбросить 7 кг
+
 
         int weigthKg = 7;
         int weigthGram = weigthKg*1000;
@@ -57,9 +49,7 @@ public class Main {
         int B = weigthGram/500;
         int averageQuantity =(A+B)/2;
 
-//        Маша получает 67 760 рублей в месяц.
-//        Денис получает 83 690 рублей в месяц.
-//        Кристина получает 76 230 рублей в месяц.
+
         int kash1=67760;
         int kash2=83690;
         int kash3=76230;
